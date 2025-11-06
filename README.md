@@ -6,7 +6,6 @@ A comprehensive web-based machine learning platform built with Streamlit that su
 
 <img width="1881" height="1020" alt="Screenshot 2025-11-06 123238" src="https://github.com/user-attachments/assets/9a999b77-59b4-414c-b62e-3e70bda15fd2" />
 
-
 ## ✨ Features
 
 ### 📊 Multi-format Data Support
