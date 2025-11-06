@@ -2,7 +2,10 @@
 
 A comprehensive web-based machine learning platform built with Streamlit that supports data preprocessing, visualization, model training, and analysis for various data types including tabular data, audio, and images.
 
-![ML Web App](https://via.placeholder.com/800x400/4CAF50/FFFFFF?text=Machine+Learning+Web+App)
+![ML Web App](https://machine-learning-web-app-njq3ynch7rz35w858scjce.streamlit.app/)
+
+<img width="1881" height="1020" alt="Screenshot 2025-11-06 123238" src="https://github.com/user-attachments/assets/9a999b77-59b4-414c-b62e-3e70bda15fd2" />
+
 
 ## ✨ Features
 
